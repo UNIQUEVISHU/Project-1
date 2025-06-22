@@ -15,7 +15,7 @@ body{
 }
 
 .main {
-    background-image: url(US-en-20231106-popsignuptwoweeks-perspective_alpha_website_large\ \(1\).jpg);
+    background-image: url("US-en-20231106-popsignuptwoweeks-perspective_alpha_website_large\ \(1\).jpg");
     height: 70vh;
     position: relative;
     background-position: center center;
